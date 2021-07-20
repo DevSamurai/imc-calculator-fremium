@@ -17,7 +17,7 @@
     "@react-navigation/stack": "^5.2.10",
     "moment": "^2.24.0",
     "react": "16.11.0",
-    "react-native": "0.62.1",
+    "react-native": "0.62.3",
     "react-native-calendars": "^1.265.0",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-iap": "^4.4.3",
